@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>lib.standard</groupId>
+  <artifactId>mvvm_talkshow_master</artifactId>
+  <versioning>
+    <versions>
+      <version>4.0.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200916073418</lastUpdated>
+  </versioning>
+</metadata>
