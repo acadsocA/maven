@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>plugin</groupId>
+  <artifactId>asm_talkshow_master</artifactId>
+  <version>4.0.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20201105.112629</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20201105112629</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>4.0.4-20201105.112629-2</value>
+        <updated>20201105112629</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.0.4-20201105.112629-2</value>
+        <updated>20201105112629</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
