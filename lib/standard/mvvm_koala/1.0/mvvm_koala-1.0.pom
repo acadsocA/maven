@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>lib.standard</groupId>
+  <artifactId>mvvm_koala</artifactId>
+  <version>1.0</version>
+  <packaging>aar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>lib.standard</groupId>
+      <artifactId>base_koala</artifactId>
+      <version>1.0</version>
+    </dependency>
+    <dependency>
+      <groupId>com.hjq</groupId>
+      <artifactId>titlebar</artifactId>
+      <version>8.2</version>
+    </dependency>
+    <dependency>
+      <groupId>androidx.lifecycle</groupId>
+      <artifactId>lifecycle-extensions</artifactId>
+      <version>latest.release</version>
+    </dependency>
+  </dependencies>
+</project>
