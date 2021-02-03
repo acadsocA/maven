@@ -10,16 +10,19 @@
       <groupId>lib.standard</groupId>
       <artifactId>base_koala</artifactId>
       <version>1.0</version>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.hjq</groupId>
       <artifactId>titlebar</artifactId>
       <version>8.2</version>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>androidx.lifecycle</groupId>
       <artifactId>lifecycle-extensions</artifactId>
       <version>latest.release</version>
+      <scope>runtime</scope>
     </dependency>
   </dependencies>
 </project>
